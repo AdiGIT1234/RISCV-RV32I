@@ -5,3 +5,7 @@ build/
 
 # Verilator generated files
 obj_dir/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
