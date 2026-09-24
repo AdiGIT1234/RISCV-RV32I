@@ -1,0 +1,7 @@
+*.vcd
+*.out
+*.log
+build/
+
+# Verilator generated files
+obj_dir/
