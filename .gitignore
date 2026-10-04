@@ -9,3 +9,9 @@ obj_dir/
 # macOS metadata
 .DS_Store
 **/.DS_Store
+
+# OpenLane generated runs
+openlane/**/runs/
+
+# External dependencies
+third_party/

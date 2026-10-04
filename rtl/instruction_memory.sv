@@ -2,7 +2,7 @@
 `timescale 1ns/1ps
 module instruction_memory #(
     parameter int MEM_DEPTH = 256,
-    parameter string INIT_FILE = ""
+    parameter INIT_FILE = ""
 )(
     input  logic [31:0] address,
     output logic [31:0] instruction
